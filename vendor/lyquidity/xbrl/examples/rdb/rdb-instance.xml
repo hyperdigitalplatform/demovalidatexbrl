@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xbrli:xbrl xml:lang="en" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:in-rbi-rep="http://www.rbi.org/in/xbrl/2012-04-25/rbi" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:in-rbi-rep-par="http://www.rbi.org/in-rbi-rep-par">
+    <link:schemaRef xlink:type="simple" xlink:href="in-rbi-CRILC-RDB.xsd"/>
+    <xbrli:context id="fromto_20220903_20220909">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2022-09-03</xbrli:startDate>
+            <xbrli:endDate>2022-09-09</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="asof_20220909">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2022-09-09</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="asof_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+            <xbrli:segment>
+                <xbrldi:typedMember dimension="in-rbi-rep:UniqueTransactionCodeAxis">
+                    <in-rbi-rep:UniqueTransactionCodeAxis>TransactionID1</in-rbi-rep:UniqueTransactionCodeAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerPermanentAccountNumberAxis">
+                    <in-rbi-rep:CustomerPermanentAccountNumberAxis>AAAAA0009L</in-rbi-rep:CustomerPermanentAccountNumberAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerNameAxis">
+                    <in-rbi-rep:CustomerNameAxis>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep:CustomerNameAxis>
+                </xbrldi:typedMember>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2022-09-09</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="fromto_20220903_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+            <xbrli:segment>
+                <xbrldi:typedMember dimension="in-rbi-rep:UniqueTransactionCodeAxis">
+                    <in-rbi-rep:UniqueTransactionCodeAxis>TransactionID1</in-rbi-rep:UniqueTransactionCodeAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerPermanentAccountNumberAxis">
+                    <in-rbi-rep:CustomerPermanentAccountNumberAxis>AAAAA0009L</in-rbi-rep:CustomerPermanentAccountNumberAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerNameAxis">
+                    <in-rbi-rep:CustomerNameAxis>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep:CustomerNameAxis>
+                </xbrldi:typedMember>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2022-09-03</xbrli:startDate>
+            <xbrli:endDate>2022-09-09</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="asof_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+            <xbrli:segment>
+                <xbrldi:typedMember dimension="in-rbi-rep:UniqueTransactionCodeAxis">
+                    <in-rbi-rep:UniqueTransactionCodeAxis>TransactionID2</in-rbi-rep:UniqueTransactionCodeAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerPermanentAccountNumberAxis">
+                    <in-rbi-rep:CustomerPermanentAccountNumberAxis>AAAAA0638F</in-rbi-rep:CustomerPermanentAccountNumberAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerNameAxis">
+                    <in-rbi-rep:CustomerNameAxis>ADINATH RAJENDRA JAIN SHWETAMBER PEDHI TRUST</in-rbi-rep:CustomerNameAxis>
+                </xbrldi:typedMember>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:instant>2022-09-09</xbrli:instant>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:context id="fromto_20220903_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">
+        <xbrli:entity>
+            <xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">600</xbrli:identifier>
+            <xbrli:segment>
+                <xbrldi:typedMember dimension="in-rbi-rep:UniqueTransactionCodeAxis">
+                    <in-rbi-rep:UniqueTransactionCodeAxis>TransactionID2</in-rbi-rep:UniqueTransactionCodeAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerPermanentAccountNumberAxis">
+                    <in-rbi-rep:CustomerPermanentAccountNumberAxis>AAAAA0638F</in-rbi-rep:CustomerPermanentAccountNumberAxis>
+                </xbrldi:typedMember>
+                <xbrldi:typedMember dimension="in-rbi-rep:CustomerNameAxis">
+                    <in-rbi-rep:CustomerNameAxis>ADINATH RAJENDRA JAIN SHWETAMBER PEDHI TRUST</in-rbi-rep:CustomerNameAxis>
+                </xbrldi:typedMember>
+            </xbrli:segment>
+        </xbrli:entity>
+        <xbrli:period>
+            <xbrli:startDate>2022-09-03</xbrli:startDate>
+            <xbrli:endDate>2022-09-09</xbrli:endDate>
+        </xbrli:period>
+    </xbrli:context>
+    <xbrli:unit id="INR">
+        <xbrli:measure xmlns="">iso4217:INR</xbrli:measure>
+    </xbrli:unit>
+    <xbrli:unit id="PURE">
+        <xbrli:measure xmlns="">xbrli:pure</xbrli:measure>
+    </xbrli:unit>
+    <in-rbi-rep:ReturnName contextRef="fromto_20220903_20220909">Return on Defaulted  Borrowers</in-rbi-rep:ReturnName>
+    <in-rbi-rep:ReturnCode contextRef="fromto_20220903_20220909">R032</in-rbi-rep:ReturnCode>
+    <in-rbi-rep:BankCode contextRef="asof_20220909">600</in-rbi-rep:BankCode>
+    <in-rbi-rep:NameOfReportingInstitution contextRef="fromto_20220903_20220909">Punjab National Bank</in-rbi-rep:NameOfReportingInstitution>
+    <in-rbi-rep:ReportForTheYearEnded contextRef="fromto_20220903_20220909">2022-09-09</in-rbi-rep:ReportForTheYearEnded>
+    <in-rbi-rep:ReportingFrequency contextRef="fromto_20220903_20220909">Weekly</in-rbi-rep:ReportingFrequency>
+    <in-rbi-rep:ReturnVersion contextRef="fromto_20220903_20220909">V1.3</in-rbi-rep:ReturnVersion>
+    <in-rbi-rep:ToolName contextRef="fromto_20220903_20220909">iFile</in-rbi-rep:ToolName>
+    <in-rbi-rep:ReportingPeriodStartDate contextRef="asof_20220909">2022-09-03</in-rbi-rep:ReportingPeriodStartDate>
+    <in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">2022-09-09</in-rbi-rep:DateOfDefaultBorrowers>
+    <in-rbi-rep:FundedAmountOutstandingDefaultBorrowers decimals="-5" unitRef="INR" contextRef="asof_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">999999900000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+    <in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers decimals="-3" unitRef="INR" contextRef="asof_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">1000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+    <in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers decimals="-3" unitRef="INR" contextRef="asof_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">999999901000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+    <in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20220903_20220909_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">JFSj</in-rbi-rep:RemarksForDefaultBorrowers>
+    <in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">2022-01-23</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+    <in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers decimals="-3" unitRef="INR" contextRef="asof_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">54564615000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+    <in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers decimals="-5" unitRef="INR" contextRef="asof_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">45600000</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+    <in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers decimals="-3" unitRef="INR" contextRef="asof_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">54610215000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+    <in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20220903_20220909_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">JHHRE</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+    <in-rbi-rep:NameOfSignatory contextRef="fromto_20220903_20220909">fsd</in-rbi-rep:NameOfSignatory>
+    <in-rbi-rep:DesignationOfSignatory contextRef="fromto_20220903_20220909">sdfsdfsdfsdf</in-rbi-rep:DesignationOfSignatory>
+    <in-rbi-rep:AuthorisedSignatoryMobileNumber decimals="INF" unitRef="PURE" contextRef="fromto_20220903_20220909">5235215215</in-rbi-rep:AuthorisedSignatoryMobileNumber>
+    <in-rbi-rep:AuthorisedSignatoryLandlineNumber decimals="INF" unitRef="PURE" contextRef="fromto_20220903_20220909">5235235214</in-rbi-rep:AuthorisedSignatoryLandlineNumber>
+    <in-rbi-rep:EmailAddressOfEmployee contextRef="fromto_20220903_20220909">dfsdfdsf@n.com</in-rbi-rep:EmailAddressOfEmployee>
+</xbrli:xbrl>

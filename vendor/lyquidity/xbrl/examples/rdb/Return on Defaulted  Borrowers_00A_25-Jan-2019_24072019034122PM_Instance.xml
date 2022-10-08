@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Count:83-->
+<xbrli:xbrl xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:ref="http://www.xbrl.org/2004/ref" 
+xmlns:in-rbi-rep="http://www.rbi.org/in/xbrl/2012-04-25/rbi"
+xmlns:in-rbi-rep-par="http://www.rbi.org/in-rbi-rep-par"
+>
+<link:schemaRef xlink:type="simple" xlink:href="in-rbi-CRILC-RDB.xsd" />
+<xbrli:context id="fromto_20190119_20190125">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+</xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID1</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID1</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID2</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0638F</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADINATH RAJENDRA JAIN SHWETAMBER PEDHI TRUST</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID2</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0638F</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADINATH RAJENDRA JAIN SHWETAMBER PEDHI TRUST</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID3</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB2171Q</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHARAT CHAMBER OF COMMERCE</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID3</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB2171Q</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHARAT CHAMBER OF COMMERCE</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID4</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0510E</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>AJINKYATARA SAHAKARI SAKHAR KARKHANA LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID4</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0510E</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>AJINKYATARA SAHAKARI SAKHAR KARKHANA LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID5</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0872C</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHIMA SAHAKARI SAKHAR KARKHANA LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID5</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0872C</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHIMA SAHAKARI SAKHAR KARKHANA LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID6</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AADCB0321R</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BROADRIDGE FINANCIAL SOLUTIONS (INDIA) PRIVATE LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID6</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AADCB0321R</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BROADRIDGE FINANCIAL SOLUTIONS (INDIA) PRIVATE LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID7</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0167G</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ANNASAHEB PATIL MATHADI KAMGAR SAHAKARI PATPEDHI LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID7</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0167G</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ANNASAHEB PATIL MATHADI KAMGAR SAHAKARI PATPEDHI LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID8</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID8</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID1</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB4467B</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHARATIYA PROCESSING CO-OPERATIVE FEDERATION LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID1</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB4467B</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BHARATIYA PROCESSING CO-OPERATIVE FEDERATION LIMITED</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID2</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID2</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID3</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0496R</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>AJARA SAHAKARI SAKHAR KAR KHANA LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID3</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0496R</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>AJARA SAHAKARI SAKHAR KAR KHANA LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID4_AAAAB3950F_BANKOFMAHARASHTRAKARMACHARICREDITCOOPSOCIETY">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID4</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB3950F</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BANK OF MAHARASHTRA KARMACHARI CREDIT COOP SOCIETY</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID5</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID5</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAA0009L</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>ADITANAR EDUCATIONAL INSTITUTION</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="asof_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID6</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0575E</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BANASKANTHA DIST CO OP MILK PRODUCERS UNION LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:instant>2019-01-25</xbrli:instant>
+</xbrli:period>
+</xbrli:context>
+<xbrli:context id="fromto_20190119_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD">
+<xbrli:entity>
+<xbrli:identifier scheme="http://www.rbi.gov.in/000/2010-12-31">00A</xbrli:identifier>
+<xbrli:segment>
+<xbrldi:typedMember dimension='in-rbi-rep:UniqueTransactionCodeAxis'><in-rbi-rep-par:UniqueTransactionCodeDomain>TransactionID6</in-rbi-rep-par:UniqueTransactionCodeDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerPermanentAccountNumberAxis'><in-rbi-rep-par:PermanentAccountNumberDomain>AAAAB0575E</in-rbi-rep-par:PermanentAccountNumberDomain></xbrldi:typedMember>
+<xbrldi:typedMember dimension='in-rbi-rep:CustomerNameAxis'><in-rbi-rep-par:CustomerNameDomain>BANASKANTHA DIST CO OP MILK PRODUCERS UNION LTD</in-rbi-rep-par:CustomerNameDomain></xbrldi:typedMember>
+</xbrli:segment></xbrli:entity>
+<xbrli:period>
+<xbrli:startDate>2019-01-19</xbrli:startDate>
+<xbrli:endDate>2019-01-25</xbrli:endDate>
+</xbrli:period>
+</xbrli:context>
+
+<xbrli:unit id="INR">
+<xbrli:measure>iso4217:INR</xbrli:measure>
+</xbrli:unit>
+<xbrli:unit id="PURE">
+<xbrli:measure>xbrli:pure</xbrli:measure>
+</xbrli:unit>
+
+<in-rbi-rep:ReturnName contextRef="fromto_20190119_20190125" >Return on Defaulted  Borrowers</in-rbi-rep:ReturnName>
+<in-rbi-rep:ReturnCode contextRef="fromto_20190119_20190125" >RDB</in-rbi-rep:ReturnCode>
+<in-rbi-rep:BankCode contextRef="asof_20190125" >00A</in-rbi-rep:BankCode>
+<in-rbi-rep:NameOfReportingInstitution contextRef="fromto_20190119_20190125" >Kookmin Bank</in-rbi-rep:NameOfReportingInstitution>
+<in-rbi-rep:ReportForTheYearEnded contextRef="fromto_20190119_20190125" >2019-01-25</in-rbi-rep:ReportForTheYearEnded>
+<in-rbi-rep:ReportingFrequency contextRef="fromto_20190119_20190125" >Weekly</in-rbi-rep:ReportingFrequency>
+<in-rbi-rep:ReturnVersion contextRef="fromto_20190119_20190125" >V1.3</in-rbi-rep:ReturnVersion>
+<in-rbi-rep:ToolName contextRef="fromto_20190119_20190125" >iFile</in-rbi-rep:ToolName>
+<in-rbi-rep:ReportingPeriodStartDate contextRef="asof_20190125" >2019-01-19</in-rbi-rep:ReportingPeriodStartDate>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >2019-01-24</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-5" >999999900000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >1000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >999999901000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID1_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >JFSj</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST" >2019-01-23</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST" unitRef="INR" decimals="-3" >54564615000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST" unitRef="INR" decimals="-5" >45600000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST" unitRef="INR" decimals="-3" >54610215000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID2_AAAAA0638F_ADINATHRAJENDRAJAINSHWETAMBERPEDHITRUST" >JHHRE</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE" >2019-01-19</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE" unitRef="INR" decimals="0" >0</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE" unitRef="INR" decimals="-5" >100000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE" unitRef="INR" decimals="-5" >100000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID3_AAAAB2171Q_BHARATCHAMBEROFCOMMERCE" >JHEJHRJE</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED" >2019-01-22</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED" unitRef="INR" decimals="-5" >100000000000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED" unitRef="INR" decimals="0" >0</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED" unitRef="INR" decimals="-5" >100000000000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID4_AAAAA0510E_AJINKYATARASAHAKARISAKHARKARKHANALIMITED" >DSS</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD" >2019-01-25</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="-5" >100000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="0" >0</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="-5" >100000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID5_AAAAB0872C_BHIMASAHAKARISAKHARKARKHANALTD" >DRERI</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED" >2019-01-20</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED" unitRef="INR" decimals="-5" >100000000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED" unitRef="INR" decimals="0" >0</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED" unitRef="INR" decimals="-5" >100000000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID6_AADCB0321R_BROADRIDGEFINANCIALSOLUTIONSINDIAPRIVATELIMITED" >DNFKDF</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED" >2019-01-21</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED" unitRef="INR" decimals="-3" >545614000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED" unitRef="INR" decimals="-5" >12100000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED" unitRef="INR" decimals="-3" >557714000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID7_AAAAB0167G_ANNASAHEBPATILMATHADIKAMGARSAHAKARIPATPEDHILIMITED" >DFD</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfDefaultBorrowers contextRef="asof_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >2019-01-23</in-rbi-rep:DateOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >99000</in-rbi-rep:FundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers contextRef="asof_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-5" >999999900000</in-rbi-rep:NonFundedAmountOutstandingDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers contextRef="asof_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >999999999000</in-rbi-rep:AmountOutstandingFundedNonfundedDefaultBorrowers>
+<in-rbi-rep:RemarksForDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID8_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >hfg</in-rbi-rep:RemarksForDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED" >2019-01-20</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED" unitRef="INR" decimals="-3" >999999999000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED" unitRef="INR" decimals="0" >0</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED" unitRef="INR" decimals="-3" >999999999000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID1_AAAAB4467B_BHARATIYAPROCESSINGCOOPERATIVEFEDERATIONLIMITED" >dfgdg</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >2019-01-19</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >2525000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-5" >4500000</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >7025000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID2_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >dfgfg</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD" >2019-01-19</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="-5" >1200000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="-5" >1200000</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD" unitRef="INR" decimals="-5" >2400000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID3_AAAAA0496R_AJARASAHAKARISAKHARKARKHANALTD" >dfgdg</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAB3950F_BANKOFMAHARASHTRAKARMACHARICREDITCOOPSOCIETY" >2019-01-23</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAB3950F_BANKOFMAHARASHTRAKARMACHARICREDITCOOPSOCIETY" unitRef="INR" decimals="0" >0</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAB3950F_BANKOFMAHARASHTRAKARMACHARICREDITCOOPSOCIETY" unitRef="INR" decimals="-4" >10000</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID4_AAAAB3950F_BANKOFMAHARASHTRAKARMACHARICREDITCOOPSOCIETY" unitRef="INR" decimals="-4" >10000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >2019-01-20</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-5" >8500000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >11111122000</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" unitRef="INR" decimals="-3" >11119622000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID5_AAAAA0009L_ADITANAREDUCATIONALINSTITUTION" >dfsfdf</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+<in-rbi-rep:DateOfOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD" >2019-01-25</in-rbi-rep:DateOfOutOfDefaultBorrowers>
+<in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD" unitRef="INR" decimals="-5" >199999900000</in-rbi-rep:FundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD" unitRef="INR" decimals="0" >0</in-rbi-rep:NonFundedAmountOutstandingOutOfDefaultBorrowers>
+<in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers contextRef="asof_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD" unitRef="INR" decimals="-5" >199999900000</in-rbi-rep:AmountOutstandingFundedNonfundedOutOfDefaultBorrowers>
+<in-rbi-rep:RemarksForOutOfDefaultBorrowers contextRef="fromto_20190119_20190125_TransactionID6_AAAAB0575E_BANASKANTHADISTCOOPMILKPRODUCERSUNIONLTD" >ERERE</in-rbi-rep:RemarksForOutOfDefaultBorrowers>
+<in-rbi-rep:NameOfSignatory contextRef="fromto_20190119_20190125" >fsd</in-rbi-rep:NameOfSignatory>
+<in-rbi-rep:DesignationOfSignatory contextRef="fromto_20190119_20190125" >sdfsdfsdfsdf</in-rbi-rep:DesignationOfSignatory>
+<in-rbi-rep:AuthorisedSignatoryMobileNumber contextRef="fromto_20190119_20190125" unitRef="PURE" decimals="INF" >5235215215</in-rbi-rep:AuthorisedSignatoryMobileNumber>
+<in-rbi-rep:AuthorisedSignatoryLandlineNumber contextRef="fromto_20190119_20190125" unitRef="PURE" decimals="INF" >5235235214</in-rbi-rep:AuthorisedSignatoryLandlineNumber>
+<in-rbi-rep:EmailAddressOfEmployee contextRef="fromto_20190119_20190125" >dfsdfdsf@n.com</in-rbi-rep:EmailAddressOfEmployee>
+
+</xbrli:xbrl>

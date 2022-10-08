@@ -1,0 +1,16 @@
+{
+    "Messages": [
+        "Existence assertion Result for 'AuthorisedSignatory-NameIsMandatoryToBeReported (in-rbi-CRILC-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'AuthorisedSignatory-DesignationIsMandatoryToBeReported (in-rbi-CRILC-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'AuthorisedSignatory-MobileNumberIsMandatoryToBeReported (in-rbi-CRILC-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'AuthorisedSignatory-LandlineNumberIsMandatoryToBeReported (in-rbi-CRILC-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'AuthorisedSignatory-EmailIdIsMandatoryToBeReported (in-rbi-CRILC-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'NameOfReportingInstitutionIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnVersionIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnNameIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnCodeIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'BankCodeIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReportingFrequencyIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReportForTheYearEndedIsMandatoryToBeReported (in-rbi-GenInfo-RDB-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations."
+    ]
+}

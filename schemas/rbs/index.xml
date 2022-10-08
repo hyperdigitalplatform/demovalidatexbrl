@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2005 XBRL International. All Rights Reserved. -->
+<?xml-stylesheet type="text/xsl" href="../../infrastructure/test.xsl"?>
+<testcase
+  xmlns="http://xbrl.org/2008/conformance"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://xbrl.org/2008/conformance ../../infrastructure/test.xsd"
+  xmlns:xbrlfe="http://xbrl.org/2008/formula/error"
+  xmlns:binding="http://xbrl.org/2008/binding/errors"
+  xmlns:label="http://xbrl.org/2008/label/errors"
+  xmlns:reference="http://xbrl.org/2008/reference/errors"  
+  >
+  <creator>
+    <name>Raam mohan mishra</name>
+    <email>raam@armedu.in</email>
+  </creator>
+  <number>RBS</number>
+  <name>RBS Report validation</name>
+  <description>
+    validate RBS report
+  </description>
+  <reference specification="FORMULA" id="sec-formula"/>
+  <reference specification="CONSISTENCY-ASSERTION" id="sec-processing-model"/>         
+
+  <variation id="V-01">
+    <name>RBS validation</name>
+    <description>
+      this will validate RBS
+    </description>
+    <data>
+      <instance readMeFirst="true">rbs-instance.xml</instance>
+      <schema readMeFirst="false">in-rbi-rbs.xsd</schema>
+      
+    </data>
+    <result>
+      <assertionTests 
+         assertionID="assertion"
+         countSatisfied="1"
+         countNotSatisfied="1"
+         />
+      <messageTests
+         assertionID="assertion">
+        <notSatisfied>**** customized messsage for</notSatisfied>
+        <satisfied>**** customized for satisfied</satisfied>
+      </messageTests>  
+    </result>
+    
+  </variation>
+  
+</testcase>

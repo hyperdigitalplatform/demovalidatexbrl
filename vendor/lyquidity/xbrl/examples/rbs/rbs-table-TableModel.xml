@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---->
+
+<tableModel xmlns="http://xbrl.org/PWD/2013-05-17/table/model">
+<tableSet label="General Information">
+<table label="GeneralInformation_Layout1" header=""/>
+</tableSet>
+<tableSet label="RatingWiseStdAdv">
+<table label="RatingWiseStdAdv_Layout1" header=""/>
+<table label="RatingWiseStdAdv_Layout2" header=""/>
+<table label="RatingWiseStdAdv_Layout3" header=""/>
+</tableSet>
+<tableSet label="RatingwiseNonSLR">
+<table label="RatingwiseNonSLR_Layout1" header=""/>
+<table label="RatingwiseNonSLR_Layout2" header="Part A: External Rating (Domestic Operations)"/>
+<table label="RatingwiseNonSLR_Layout3" header="Part A: External Rating (Domestic Operations)"/>
+<table label="RatingwiseNonSLR_Layout4" header="Part B: Internal Rating (Domestic Operations)"/>
+<table label="RatingwiseNonSLR_Layout5" header="Part B: Internal Rating (Domestic Operations)"/>
+<table label="RatingwiseNonSLR_Layout6" header="Part B: Internal Rating (Domestic Operations)"/>
+<table label="RatingwiseNonSLR_Layout7" header="Part B: Internal Rating (Domestic Operations)"/>
+</tableSet>
+<tableSet label="Securitization">
+<table label="Securitization_Layout1" header="Loan Sales and Securitization during the Quarter"/>
+<table label="Securitization_Layout2" header="Loan Sales and Securitization (April to date)"/>
+</tableSet>
+<tableSet label="CreditCardBusiness">
+<table label="CreditCardBusiness_Layout1" header=""/>
+<table label="CreditCardBusiness_Layout2" header=""/>
+<table label="CreditCardBusiness_Layout3" header=""/>
+</tableSet>
+<tableSet label="Housing-Finance">
+<table label="HousingFinance_Layout1" header="Financial Assistance granted by Scheduled Commercial Banks under the category 'Housing Finance'"/>
+<table label="HousingFinance_Layout2" header="Financial Assistance granted by Scheduled Commercial Banks under the category 'Housing Finance'"/>
+<table label="HousingFinance_Layout3" header="Financial Assistance granted by Scheduled Commercial Banks under the category 'Housing Finance'"/>
+</tableSet>
+<tableSet label="Authorised Signatory">
+<table label="AuthorisedSignatory_Layout1" header=""/>
+</tableSet>
+</tableModel>

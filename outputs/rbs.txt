@@ -1,0 +1,32 @@
+{
+    "Messages": [
+        "Value assertion Result for 'ReportStatusIsUn-AuditedOfDateOfAuditShouldNotBeReported (in-rbi-GenInfo-formula.xml)': There are 0 satisfied and 1 not satisfied evaluations.",
+        "Value assertion Result for 'DateOfAuditShouldBeGreaterThanOrEqualToReportingPeriodEndDate (in-rbi-GenInfo-formula.xml)': There are 1 satisfied and 0 not satisfied evaluations.",
+        "Value assertion Result for 'ReportStatusIsAuditedOfDateOfAuditShouldBePresent (in-rbi-GenInfo-formula.xml)': There are 0 satisfied and 0 not satisfied evaluations.",
+        "Existence assertion Result for 'NameOfReportingInstitutionIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReportStatusIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ValidationStatusIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnVersionIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnNameIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReturnCodeIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'BankCodeIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReportingFrequencyIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'ReportForTheYearEndedIsMandatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'CategoriesOfBanksIsManadatoryToBeReported (in-rbi-GenInfo-formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'NameOfSignatoryIsToBeMadeMandatory (in-rbi-rbs-Signatory-Formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'DesignationOfSignatoryIsToBeMadeMandatory (in-rbi-rbs-Signatory-Formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'MobileNumberOfSignatoryIsToBeMadeMandatory (in-rbi-rbs-Signatory-Formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'LandlineNumberOfSignatoryIsToBeMadeMandatory (in-rbi-rbs-Signatory-Formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Existence assertion Result for 'EmailIDOfSignatoryIsToBeMadeMandatory (in-rbi-rbs-Signatory-Formula.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations.",
+        "Value assertion Result for 'RatingWiseStdAdv-HurdleRateCheck (in-rbi-rbs_hurdleRateformula.xml)': There are 0 satisfied and 1 not satisfied evaluations.",
+        "Existence assertion Result for 'DateOfReportIsMandatoryToBeReported (in-rbi-rbs-formula1.xml)' with test expression succeeded: There are 1 satisfied and 0 not satisfied existence evaluations."
+    ],
+    "UnsatisfiedMessages": [
+        [
+            "If the value of \"ReportStatus\" is \"Un-Audited\",  \"Date of Audit\" should not be reported"
+        ],
+        [
+            "\"Hurdle Rate\" is mandatory in \"Internal Ratings\""
+        ]
+    ]
+}

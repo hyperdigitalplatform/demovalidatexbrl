@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---->
+
+<tableModel xmlns="http://xbrl.org/PWD/2013-05-17/table/model">
+<tableSet label="GeneralInformation">
+<table label="GeneralInformation_GeneralInformation" header="General Information"/>
+</tableSet>
+<tableSet label="DefaultBorrowers">
+<table label="DefaultBorrowers_lyt_1_SMA2" header=""/>
+</tableSet>
+<tableSet label="OutofDefault">
+<table label="OutofDefault_Sec2JLFFormation" header=""/>
+</tableSet>
+<tableSet label="AuthorisedSignatory">
+<table label="AuthorisedSignatory_AuthorisedSignatory" header="Authorised Signatory"/>
+</tableSet>
+</tableModel>
